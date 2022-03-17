@@ -1,0 +1,15 @@
+{
+  "name": "tron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tron-wallet-hd": "^2.0.2",
+    "tronweb": "^4.1.0"
+  }
+}
